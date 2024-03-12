@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Idea RC</h1>
 
-Currently building SaaS [Speecify](https://speecify.in.th)
+Currently building SaaS [Speecify](https://speecify.in.th) speecify.in.th +1500 users.
 <h3 align="center">19 y/o | I am web developer and also unreal engine game developer @AlchemistWar. I Study at ENG Chula I mostly do SaaS, website, game, Web3 blockchain project. Using my passion as an otaku to build the future. Am into anime, tech, cosplay. Play genshin impact, honkai star rail</h3> Most of my project showcase is show on my Instagram @idea_rc!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idea2547&label=Profile%20views&color=0e75b6&style=flat" alt="idea2547" /> </p>
