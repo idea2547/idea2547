@@ -6,9 +6,10 @@ Currently building this open-source boilerplate template to help ship your new S
 https://github.com/idea2547/Alya_Sveltekit_SaaS -giving me a star would be appreciated!
 ![image 24](https://github.com/idea2547/idea2547/assets/53974956/cb7d7869-5589-400c-a897-914fad286685)
 and
-[Speecify](https://speecify.in.th) speecify.in.th +1500 users.
+[CelestiAI](https://celestiai.co) CelestiAI AI voice platform website startup +3500 users.
 <p align=center>
-  <img src="https://github.com/idea2547/idea2547/blob/master/Specify.PNG" alt="Speecify" />
+  ![image](https://github.com/idea2547/idea2547/assets/53974956/c9583758-317d-4747-b52c-2270c1a98f2a)
+
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idea2547&label=Profile%20views&color=0e75b6&style=flat" alt="idea2547" /> </p>
@@ -17,13 +18,13 @@ and
 
 <p align="left"> <a href="https://twitter.com/ideapakpaphon" target="blank"><img src="https://img.shields.io/twitter/follow/ideapakpaphon?logo=twitter&style=for-the-badge" alt="ideapakpaphon" /></a> </p>
 
-- 🔭 I’m currently working on [Speecify](speecify.in.th)
+- 🔭 I’m currently working on [CelestiAI](celestiai.co)
 
 - 🌱 I’m currently learning **Sveltekit, building SaaS, Startup**
 
 - 👯 I’m looking to collaborate on **AI vtuber, cosplay, TTS, AI**
 
-- 👨‍💻 All of my projects are available at [idearc.frame](idearc.frame)
+- 👨‍💻 See more about me! [My openlink](https://www.openlink.co/idearc)
 
 - 📫 How to reach me **ideapakpaphon@gmail.com**
 
