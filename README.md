@@ -7,10 +7,8 @@ https://github.com/idea2547/Alya_Sveltekit_SaaS -giving me a star would be appre
 ![image 24](https://github.com/idea2547/idea2547/assets/53974956/cb7d7869-5589-400c-a897-914fad286685)
 and
 [CelestiAI](https://celestiai.co) CelestiAI AI voice platform website startup +3500 users.
-<p align=center>
-  ![image](https://github.com/idea2547/idea2547/assets/53974956/c9583758-317d-4747-b52c-2270c1a98f2a)
+![image](https://github.com/idea2547/idea2547/assets/53974956/c9583758-317d-4747-b52c-2270c1a98f2a)
 
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idea2547&label=Profile%20views&color=0e75b6&style=flat" alt="idea2547" /> </p>
 
