@@ -4,11 +4,8 @@
 
 Currently building this open-source boilerplate template to help ship your new SaaS startup fast!
 https://github.com/idea2547/Alya_Sveltekit_SaaS -giving me a star would be appreciated!
-![image 24](https://github.com/idea2547/idea2547/assets/53974956/cb7d7869-5589-400c-a897-914fad286685)
 and
-[CelestiAI](https://celestiai.co) CelestiAI AI voice platform website startup +3500 users.
-![image](https://github.com/idea2547/idea2547/assets/53974956/c9583758-317d-4747-b52c-2270c1a98f2a)
-
+[CelestiAI](https://celestiai.co) CelestiAI AI voice platform website startup +6000 register users.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idea2547&label=Profile%20views&color=0e75b6&style=flat" alt="idea2547" /> </p>
 
