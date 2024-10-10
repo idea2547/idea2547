@@ -5,7 +5,7 @@
 Currently building this open-source boilerplate template to help ship your new SaaS startup fast!
 https://github.com/idea2547/Alya_Sveltekit_SaaS -giving me a star would be appreciated!
 and
-[CelestiAI](https://celestiai.co) CelestiAI AI voice platform website startup +6000 register users.
+[CelestiAI](https://celestiai.co) CelestiAI AI voice platform website startup.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idea2547&label=Profile%20views&color=0e75b6&style=flat" alt="idea2547" /> </p>
 
