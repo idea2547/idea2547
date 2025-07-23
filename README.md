@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Idea RC</h1>
 
-<h3 align="center">19 y/o | I am web developer and also unreal engine game developer @AlchemistWar. I Study at ENG Chula I do SaaS, website, game, Web3 blockchain project. Am also into anime, gaming, cosplay. Play genshin impact, honkai star rail</h3> 
+<h3 align="center">I build @otakuspace</h3> 
 
 Currently building this open-source boilerplate template to help ship your new SaaS startup fast!
 https://github.com/idea2547/Alya_Sveltekit_SaaS -giving me a star would be appreciated!
